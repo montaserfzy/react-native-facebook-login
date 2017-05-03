@@ -4,7 +4,7 @@
 #import "RCTFBLogin.h"
 #import <React/RCTLog.h>
 
-@implementation RCTMFBLogin
+@implementation RCTFBLogin
 {
     FBSDKLoginButton *_loginButton;
 }

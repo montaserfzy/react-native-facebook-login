@@ -1,6 +1,6 @@
 #import <React/RCTView.h>
 
-@interface RCTMFBLogin : RCTView
+@interface RCTFBLogin : RCTView
 
 @property (nonatomic, assign) NSArray *permissions;
 @property (nonatomic, assign) NSNumber *loginBehavior;
